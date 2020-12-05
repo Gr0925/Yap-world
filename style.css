@@ -1,0 +1,39 @@
+body{
+	background-blend-mode: multiply;
+	background: url(foto/A1.jpg), url(foto/A2.jpg);
+	background-size: 100% 800px, 100% 90px;
+	background-repeat: no-repeat, no-repeat;
+}
+.yap{
+	color: green;
+	font-family: impact;
+}
+.yap img{
+	border-radius: 100px;
+}
+.sub{
+	margin-top: -50px;
+}
+.sub img{
+	box-shadow: 5px 5px;
+	border-radius: 100px;
+	padding: 10px;
+}
+.suba:hover {
+    opacity: 0.8;
+}
+.subb:hover {
+    opacity: 0.8;
+}
+.text{
+	font-family: arial black;
+	font-size: 50px;
+}
+.text2{
+	font-family: arial black;
+	font-size: 50px;
+	margin-top: 320px;
+}
+.video{
+	margin-top: -50px;
+}
